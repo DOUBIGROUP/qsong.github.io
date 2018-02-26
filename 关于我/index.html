@@ -595,7 +595,7 @@
       <script type="text/javascript">
       function renderGitalk(){
         var gitalk = new Gitalk({
-            id: decodeURI(window.location.pathname), 
+            id: new Date().valueOf(),
             admin: ['DOUBIGROUP'],
             owner: 'DOUBIGROUP',
             repo: 'qsong.github.io',
