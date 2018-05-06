@@ -1514,6 +1514,10 @@ pre .javascript .function {
   font-size: 14px;
   margin-top: 2px;
 }
+.posts-expand .post-meta time {
+  border-bottom: 1px dashed #999;
+  cursor: help;
+}
 .post-meta-divider {
   margin: 0 0.5em;
 }
@@ -1684,11 +1688,6 @@ pre .javascript .function {
   -moz-animation: roll 0.1s infinite linear;
 }
 #alipay:hover p {
-  animation: roll 0.1s infinite linear;
-  -webkit-animation: roll 0.1s infinite linear;
-  -moz-animation: roll 0.1s infinite linear;
-}
-#tenpay:hover p {
   animation: roll 0.1s infinite linear;
   -webkit-animation: roll 0.1s infinite linear;
   -moz-animation: roll 0.1s infinite linear;
@@ -1954,7 +1953,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #aa22d2;
+  background: #d7c7fb;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2906,6 +2905,9 @@ ul.breadcrumb li+li:last-child {
 .sub-menu .menu-item-active a:hover {
   background: #fff !important;
   border-bottom-color: #fc6423;
+}
+.sub-menu .menu-item-active a:after {
+  content: initial;
 }
 .use-motion .sidebar .motion-element {
   opacity: 1;
