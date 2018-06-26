@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hexo.xxrar.com/"/>
-  <updated>2018-05-06T05:39:40.315Z</updated>
+  <updated>2018-06-26T15:58:06.579Z</updated>
   <id>https://hexo.xxrar.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>晚安 - 梅子</title>
+    <link href="https://hexo.xxrar.com/2018/06/26/%E6%99%9A%E5%AE%89-%E6%A2%85%E5%AD%90/"/>
+    <id>https://hexo.xxrar.com/2018/06/26/晚安-梅子/</id>
+    <published>2018-06-26T14:55:23.000Z</published>
+    <updated>2018-06-26T15:58:06.579Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;“我是个既深情又薄情的人。深情在我和谁在一起的时候就算出现更好的，也没有见异思迁的念头。薄情在无论谁离开了我，只要我接受了现实，我就会完全断了念想。&lt;del&gt;‘得不到才是最好的’&lt;/del&gt;这种想法，从来没在我脑海里存在，对我来说，得到的拥有的，才是最好的”&lt;br&gt;摘自 &lt;a href=&quot;http://www.gxdxw.cn/wananxinyu/062532F62018.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《相守是最温暖的承诺》&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;晚安，梅子！&lt;/p&gt;&lt;img src=&quot;/2018/06/26/晚安-梅子/1.jpg&quot; title=&quot;晚安 - 梅子”&quot;&gt;
+    
+    </summary>
+    
+      <category term="心语" scheme="https://hexo.xxrar.com/categories/%E5%BF%83%E8%AF%AD/"/>
+    
+    
+      <category term="心语" scheme="https://hexo.xxrar.com/tags/%E5%BF%83%E8%AF%AD/"/>
+    
+      <category term="晚安" scheme="https://hexo.xxrar.com/tags/%E6%99%9A%E5%AE%89/"/>
+    
+  </entry>
   
   <entry>
     <title>Git常用命令与基本操作</title>
@@ -323,26 +345,6 @@
       <category term="Fastdick" scheme="https://hexo.xxrar.com/tags/Fastdick/"/>
     
       <category term="Python" scheme="https://hexo.xxrar.com/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>User-Agent简介及常见User-Agent</title>
-    <link href="https://hexo.xxrar.com/2017/05/26/User-Agent%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%B8%B8%E8%A7%81User-Agent/"/>
-    <id>https://hexo.xxrar.com/2017/05/26/User-Agent简介及常见User-Agent/</id>
-    <published>2017-05-26T09:33:42.000Z</published>
-    <updated>2018-04-06T11:28:09.326Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;一、User-Agent的含义&quot;&gt;&lt;a href=&quot;#一、User-Agent的含义&quot; class=&quot;headerlink&quot; title=&quot;一、User Agent的含义&quot;&gt;&lt;/a&gt;一、User Agent的含义&lt;/h3&gt;&lt;blockquote&gt;&lt;p&gt;中文名为用户代理，简称 UA，它是一个特殊字符串头，使得服务器能够识别客户使用的操作系统及版本、CPU 类型、浏览器及版本、浏览器渲染引擎、浏览器语言、浏览器插件等。&lt;br&gt;一些网站常常通过判断 UA 来给不同的操作系统、不同的浏览器发送不同的页面，因此可能造成某些页面无法在某个浏览器中正常显示，但通过伪装 UA 可以绕过检测。&lt;br&gt;用较为普通的一点来说，是一种向访问网站提供你所使用的浏览器类型、操作系统、浏览器内核等信息的标识。通过这个标识，用户所访问的网站可以显示不同的排版从而为用户提供更好的体验或者进行信息统计; 用手机访问google.com和电脑访问是不一样的;完成这些判断就是根据访问者的UA来判断的。&lt;br&gt;对于web开发者来说,正确的识别浏览器user-agent信息是很重要的,尤其是当下众多的浏览器和移动设备的浏览器, 对html和javascript以及css支持的不统一. 正确的识别浏览器也是提升用户体验的一种形式&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;二、一些例子&quot;&gt;&lt;a href=&quot;#二、一些例子&quot; class=&quot;headerlink&quot; title=&quot;二、一些例子&quot;&gt;&lt;/a&gt;二、一些例子&lt;/h3&gt;&lt;h4 id=&quot;360-window10&quot;&gt;&lt;a href=&quot;#360-window10&quot; class=&quot;headerlink&quot; title=&quot;360 window10&quot;&gt;&lt;/a&gt;360 window10&lt;/h4&gt;&lt;figure class=&quot;highlight lsl&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;//普通站点显示&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Mozilla/&lt;span class=&quot;number&quot;&gt;5.0&lt;/span&gt; (Windows NT &lt;span class=&quot;number&quot;&gt;10.0&lt;/span&gt;; WOW64) AppleWebKit/&lt;span class=&quot;number&quot;&gt;537.36&lt;/span&gt; (KHTML, like Gecko) Chrome/&lt;span class=&quot;number&quot;&gt;63.0&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.3239&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.132&lt;/span&gt; Safari/&lt;span class=&quot;number&quot;&gt;537.36&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;//特殊站点 如：cnzz   http://www.cnzz.com/o_index.php&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Mozilla/&lt;span class=&quot;number&quot;&gt;5.0&lt;/span&gt; (Windows NT &lt;span class=&quot;number&quot;&gt;10.0&lt;/span&gt;; WOW64) AppleWebKit/&lt;span class=&quot;number&quot;&gt;537.36&lt;/span&gt; (KHTML, like Gecko) Chrome/&lt;span class=&quot;number&quot;&gt;63.0&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.3239&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.132&lt;/span&gt; Safari/&lt;span class=&quot;number&quot;&gt;537.36&lt;/span&gt; QIHU &lt;span class=&quot;number&quot;&gt;360&lt;/span&gt;EE&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;360浏览器很奇怪，，有点流氓的就是打开cnzz时，才提供真正的User-Agent&lt;/p&gt;&lt;h4 id=&quot;QQ浏览器-window7&quot;&gt;&lt;a href=&quot;#QQ浏览器-window7&quot; class=&quot;headerlink&quot; title=&quot;QQ浏览器 window7&quot;&gt;&lt;/a&gt;QQ浏览器 window7&lt;/h4&gt;&lt;figure class=&quot;highlight lsl&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Mozilla/&lt;span class=&quot;number&quot;&gt;5.0&lt;/span&gt; (Windows NT &lt;span class=&quot;number&quot;&gt;6.1&lt;/span&gt;) AppleWebKit/&lt;span class=&quot;number&quot;&gt;537.36&lt;/span&gt; (KHTML, like Gecko) Chrome/&lt;span class=&quot;number&quot;&gt;53.0&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.2785&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.104&lt;/span&gt; Safari/&lt;span class=&quot;number&quot;&gt;537.36&lt;/span&gt; Core/&lt;span class=&quot;number&quot;&gt;1.53&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.2595&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.400&lt;/span&gt; QQBrowser/&lt;span class=&quot;number&quot;&gt;9.6&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.10872&lt;/span&gt;&lt;span class=&quot;number&quot;&gt;.400&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-    
-    </summary>
-    
-      <category term="编程技术" scheme="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="User Agent" scheme="https://hexo.xxrar.com/tags/User-Agent/"/>
     
   </entry>
   
