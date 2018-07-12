@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hexo.xxrar.com/"/>
-  <updated>2018-07-07T11:55:27.180Z</updated>
+  <updated>2018-07-12T14:16:45.125Z</updated>
   <id>https://hexo.xxrar.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【摘抄】拉黑你的人，往往爱得最深</title>
+    <link href="https://hexo.xxrar.com/2018/07/12/%E6%8B%89%E9%BB%91%E4%BD%A0%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%BE%80%E5%BE%80%E7%88%B1%E5%BE%97%E6%9C%80%E6%B7%B1/"/>
+    <id>https://hexo.xxrar.com/2018/07/12/拉黑你的人，往往爱得最深/</id>
+    <published>2018-07-12T13:19:35.000Z</published>
+    <updated>2018-07-12T14:16:45.125Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;有人和我形容拉黑曾经爱过的人感受是”心如刀绞，却如释负重。”&lt;/p&gt;&lt;p&gt;每一个决定拉黑的人，必定在拉黑与不拉黑之间纠结了很长的时间，要下定决心把一个在心里扎根的人凭空拔起，重新放回身后的茫茫人海中，单是想想都会痛，更别说这么做了。&lt;/p&gt;&lt;p&gt;但没有办法，爱得过于深刻，吃饭、上班、睡觉、连手机的拿起放下间都会莫名的想起，这种无法控制的情感唯一抑制的方式，想来想去只能是拉黑了。&lt;br&gt;&lt;img src=&quot;/2018/07/12/拉黑你的人，往往爱得最深/636122316296467087.jpg&quot; title=&quot;拉黑你的人，往往爱得最深&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="美文欣赏" scheme="https://hexo.xxrar.com/categories/%E7%BE%8E%E6%96%87%E6%AC%A3%E8%B5%8F/"/>
+    
+      <category term="摘抄" scheme="https://hexo.xxrar.com/categories/%E7%BE%8E%E6%96%87%E6%AC%A3%E8%B5%8F/%E6%91%98%E6%8A%84/"/>
+    
+    
+      <category term="心语" scheme="https://hexo.xxrar.com/tags/%E5%BF%83%E8%AF%AD/"/>
+    
+      <category term="摘抄" scheme="https://hexo.xxrar.com/tags/%E6%91%98%E6%8A%84/"/>
+    
+      <category term="爱情" scheme="https://hexo.xxrar.com/tags/%E7%88%B1%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>晚安 - 梅子</title>
@@ -171,7 +197,7 @@
     <link href="https://hexo.xxrar.com/2018/02/20/hello-world/"/>
     <id>https://hexo.xxrar.com/2018/02/20/hello-world/</id>
     <published>2018-02-20T13:56:54.000Z</published>
-    <updated>2018-04-07T02:44:33.619Z</updated>
+    <updated>2018-07-12T13:17:57.820Z</updated>
     
     <summary type="html">
     
@@ -319,32 +345,6 @@
       <category term="因果知道" scheme="https://hexo.xxrar.com/tags/%E5%9B%A0%E6%9E%9C%E7%9F%A5%E9%81%93/"/>
     
       <category term="扎西拉姆·多多" scheme="https://hexo.xxrar.com/tags/%E6%89%8E%E8%A5%BF%E6%8B%89%E5%A7%86%C2%B7%E5%A4%9A%E5%A4%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>迅雷快鸟基于OpenWrt路由器版</title>
-    <link href="https://hexo.xxrar.com/2017/09/15/%E8%BF%85%E9%9B%B7%E5%BF%AB%E9%B8%9F%E5%9F%BA%E4%BA%8EOpenWrt%E8%B7%AF%E7%94%B1%E5%99%A8%E7%89%88/"/>
-    <id>https://hexo.xxrar.com/2017/09/15/迅雷快鸟基于OpenWrt路由器版/</id>
-    <published>2017-09-15T14:14:52.000Z</published>
-    <updated>2018-04-06T11:26:55.216Z</updated>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;&lt;p&gt;因为最近学校电信抽风，升级最新FeiYoung客户端和验证方式，致使基于openwrt路由器无法使用ipv6提速。无法忍受一寝室使用21M带宽的诟病，于是听从室友建议，了解迅雷快鸟，最初使用客户端，但不能一直开着电脑在线，于是想到了使用路由器挂着，无意间在网上看到swjsq.py，便尝试一番，最终实现加速。&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;迅雷快鸟是什么？&quot;&gt;&lt;a href=&quot;#迅雷快鸟是什么？&quot; class=&quot;headerlink&quot; title=&quot;迅雷快鸟是什么？&quot;&gt;&lt;/a&gt;迅雷快鸟是什么？&lt;/h3&gt;&lt;p&gt;一个可以运行在路由器的迅雷快鸟(diǎo)和上行提速客户端,请先阅读&lt;a href=&quot;https://github.com/fffonion/Xunlei-Fastdick/blob/master/CONTRIBUTING.md&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;须知&lt;/a&gt;&lt;/p&gt;&lt;h3 id=&quot;快速入门&quot;&gt;&lt;a href=&quot;#快速入门&quot; class=&quot;headerlink&quot; title=&quot;快速入门&quot;&gt;&lt;/a&gt;快速入门&lt;/h3&gt;&lt;p&gt;同目录下新建 &lt;strong&gt;swjsq.account.txt&lt;/strong&gt;，填入&lt;code&gt;用户名,密码&lt;/code&gt;，如&lt;strong&gt;&lt;code&gt;ahaha,123456&lt;/code&gt;&lt;/strong&gt;（英文逗号），并保存 &lt;code&gt;python ./swjsq.py&lt;/code&gt;&lt;/p&gt;&lt;h3 id=&quot;迅雷快鸟基于OpenWrt路由器版详细使用方法&quot;&gt;&lt;a href=&quot;#迅雷快鸟基于OpenWrt路由器版详细使用方法&quot; class=&quot;headerlink&quot; title=&quot;迅雷快鸟基于OpenWrt路由器版详细使用方法&quot;&gt;&lt;/a&gt;迅雷快鸟基于OpenWrt路由器版详细使用方法&lt;/h3&gt;&lt;h4 id=&quot;能安装Python的路由器&quot;&gt;&lt;a href=&quot;#能安装Python的路由器&quot; class=&quot;headerlink&quot; title=&quot;能安装Python的路由器&quot;&gt;&lt;/a&gt;能安装Python的路由器&lt;/h4&gt;&lt;p&gt;以小米路由为例&lt;/p&gt;&lt;ol&gt;&lt;li&gt;开启SSH&lt;/li&gt;&lt;li&gt;安装Python (OpenWRT用户可以安装完整的&lt;code&gt;python&lt;/code&gt; 包，或者安装 &lt;code&gt;python-light&lt;/code&gt; , &lt;code&gt;python-codecs&lt;/code&gt; 和 &lt;code&gt;python-openssl&lt;/code&gt; 三个包
-    
-    </summary>
-    
-      <category term="编程技术" scheme="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="OpenWrt" scheme="https://hexo.xxrar.com/tags/OpenWrt/"/>
-    
-      <category term="迅雷快鸟" scheme="https://hexo.xxrar.com/tags/%E8%BF%85%E9%9B%B7%E5%BF%AB%E9%B8%9F/"/>
-    
-      <category term="Fastdick" scheme="https://hexo.xxrar.com/tags/Fastdick/"/>
-    
-      <category term="Python" scheme="https://hexo.xxrar.com/tags/Python/"/>
     
   </entry>
   
