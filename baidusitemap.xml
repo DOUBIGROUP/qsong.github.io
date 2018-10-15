@@ -1,454 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-    
   <url>
     <loc>https://hexo.xxrar.com/2018/08/12/MTproxy%E4%B8%80%E6%AC%BE%E4%B8%93%E4%B8%BATelegram%E6%89%93%E9%80%A0%E7%9A%84%E4%BB%A3%E7%90%86/</loc>
     <lastmod>2018-08-23T04:46:36.817Z</lastmod>
-    <data>
-        <display>
-        <title>MTproxy一款专为Telegram打造的代理</title>
-        <pubTime>2018-08-12T04:13:03.000Z</pubTime>
-        
-        <tag>Telegram</tag>
-         
-        <tag>MTProxy</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/07/12/%E6%8B%89%E9%BB%91%E4%BD%A0%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%BE%80%E5%BE%80%E7%88%B1%E5%BE%97%E6%9C%80%E6%B7%B1/</loc>
     <lastmod>2018-08-12T04:25:41.639Z</lastmod>
-    <data>
-        <display>
-        <title>【摘抄】拉黑你的人，往往爱得最深</title>
-        <pubTime>2018-07-12T13:19:35.000Z</pubTime>
-        
-        <tag>心语</tag>
-         
-        <tag>摘抄</tag>
-         
-        <tag>爱情</tag>
-         
-         
-           
-             
-              <breadCrumb title="美文欣赏" url="https://hexo.xxrar.com/categories/%E7%BE%8E%E6%96%87%E6%AC%A3%E8%B5%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/02/20/hello-world/</loc>
     <lastmod>2018-07-12T13:17:57.820Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-02-20T13:56:54.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/06/26/%E6%99%9A%E5%AE%89-%E6%A2%85%E5%AD%90/</loc>
     <lastmod>2018-07-07T11:55:27.180Z</lastmod>
-    <data>
-        <display>
-        <title>晚安 - 梅子</title>
-        <pubTime>2018-06-26T14:55:23.000Z</pubTime>
-        
-        <tag>心语</tag>
-         
-        <tag>晚安</tag>
-         
-         
-           
-             
-              <breadCrumb title="心语" url="https://hexo.xxrar.com/categories/%E5%BF%83%E8%AF%AD/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/05/06/Emlog5-3-1%E5%9C%A8PHP7%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%85%BC%E5%AE%B9%E5%A4%84%E7%90%86/</loc>
     <lastmod>2018-05-06T05:40:16.738Z</lastmod>
-    <data>
-        <display>
-        <title>Emlog5.3.1在PHP7环境下的兼容处理</title>
-        <pubTime>2018-05-06T05:10:46.000Z</pubTime>
-        
-        <tag>Emlog</tag>
-         
-        <tag>PHP7</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/05/06/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</loc>
     <lastmod>2018-05-06T05:39:40.315Z</lastmod>
-    <data>
-        <display>
-        <title>Git常用命令与基本操作</title>
-        <pubTime>2018-05-06T05:31:21.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/02/24/%E9%82%AE%E4%BB%B6%E6%A8%A1%E6%9D%BF/</loc>
     <lastmod>2018-04-13T13:40:30.685Z</lastmod>
-    <data>
-        <display>
-        <title>邮件模板</title>
-        <pubTime>2018-02-24T12:41:36.000Z</pubTime>
-        
-        <tag>邮件模板</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/05/24/%E3%80%90%E5%BF%83%E8%AF%AD%E3%80%91%E6%88%91%E4%BB%AC%E6%98%AF%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A5%BD%E6%9C%8B%E5%8F%8B%E5%BC%84%E4%B8%A2%E7%9A%84%EF%BC%9F/</loc>
     <lastmod>2018-04-06T11:29:12.548Z</lastmod>
-    <data>
-        <display>
-        <title>【心语】我们是如何把好朋友弄丢的？</title>
-        <pubTime>2017-05-24T09:39:14.000Z</pubTime>
-        
-        <tag>心语</tag>
-         
-        <tag>友谊</tag>
-         
-         
-           
-             
-              <breadCrumb title="心语" url="https://hexo.xxrar.com/categories/%E5%BF%83%E8%AF%AD/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/05/26/User-Agent%E7%AE%80%E4%BB%8B%E5%8F%8A%E5%B8%B8%E8%A7%81User-Agent/</loc>
     <lastmod>2018-04-06T11:28:09.326Z</lastmod>
-    <data>
-        <display>
-        <title>User-Agent简介及常见User-Agent</title>
-        <pubTime>2017-05-26T09:33:42.000Z</pubTime>
-        
-        <tag>User Agent</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/09/15/%E8%BF%85%E9%9B%B7%E5%BF%AB%E9%B8%9F%E5%9F%BA%E4%BA%8EOpenWrt%E8%B7%AF%E7%94%B1%E5%99%A8%E7%89%88/</loc>
     <lastmod>2018-04-06T11:26:55.216Z</lastmod>
-    <data>
-        <display>
-        <title>迅雷快鸟基于OpenWrt路由器版</title>
-        <pubTime>2017-09-15T14:14:52.000Z</pubTime>
-        
-        <tag>OpenWrt</tag>
-         
-        <tag>迅雷快鸟</tag>
-         
-        <tag>Fastdick</tag>
-         
-        <tag>Python</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/10/11/%E3%80%90%E5%BF%83%E8%AF%AD%E3%80%91%E6%94%BE%E4%B8%8B%E6%97%A0%E8%B0%93%E7%9A%84%E5%9C%A8%E6%84%8F/</loc>
     <lastmod>2018-04-06T11:24:37.349Z</lastmod>
-    <data>
-        <display>
-        <title>【心语】放下无谓的在意</title>
-        <pubTime>2017-10-11T13:56:54.000Z</pubTime>
-        
-        <tag>心语</tag>
-         
-         
-           
-             
-              <breadCrumb title="心语" url="https://hexo.xxrar.com/categories/%E5%BF%83%E8%AF%AD/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/10/14/VMware%20Workstation%2014%20Pro%20%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB%E7%A7%98%E9%92%A5/</loc>
     <lastmod>2018-04-06T11:24:04.281Z</lastmod>
-    <data>
-        <display>
-        <title>VMware Workstation 14 Pro 永久激活秘钥</title>
-        <pubTime>2017-10-14T12:23:32.000Z</pubTime>
-        
-        <tag>VMware</tag>
-         
-        <tag>VMware Workstation 14 Pro</tag>
-         
-        <tag>激活秘钥</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/10/22/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8R3G%E5%88%B7Breed%E5%8F%8APadavan%E5%9B%BA%E4%BB%B6/</loc>
     <lastmod>2018-04-06T11:23:16.135Z</lastmod>
-    <data>
-        <display>
-        <title>小米路由器R3G刷Breed及Padavan固件</title>
-        <pubTime>2017-10-22T13:13:59.000Z</pubTime>
-        
-        <tag>R3G</tag>
-         
-        <tag>Breed</tag>
-         
-        <tag>Padavan</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/03/16/%E4%BD%BF%E7%94%A8Yandex%E7%BF%BB%E8%AF%91API%E8%A7%A3%E5%86%B3%E7%81%AB%E7%8B%90%E5%85%A8%E6%96%87%E7%BF%BB%E8%AF%91/</loc>
     <lastmod>2018-04-06T11:21:25.837Z</lastmod>
-    <data>
-        <display>
-        <title>使用Yandex翻译API解决火狐全文翻译</title>
-        <pubTime>2018-03-16T13:24:53.000Z</pubTime>
-        
-        <tag>Yandex</tag>
-         
-        <tag>翻译</tag>
-         
-        <tag>火狐</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/02/25/hexo%E5%BC%95%E7%94%A8%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2018-04-06T11:05:32.342Z</lastmod>
-    <data>
-        <display>
-        <title>hexo引用本地图片的解决方法</title>
-        <pubTime>2018-02-24T16:38:43.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-        <tag>图片引用</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/11/19/Sublime%20Text3%E5%AE%89%E8%A3%85Package%20Control%E8%BF%9B%E8%A1%8C%E5%88%9D%E6%AC%A1%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2018-04-06T11:02:00.928Z</lastmod>
-    <data>
-        <display>
-        <title>Sublime Text3安装Package Control进行初次配置</title>
-        <pubTime>2017-11-19T05:06:21.000Z</pubTime>
-        
-        <tag>Sublime Text3</tag>
-         
-        <tag>Package Control</tag>
-         
-        <tag>注册码</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/11/25/%E3%80%90%E8%BD%AC%E3%80%91PHP%20header%20%E7%9A%84%E5%87%A0%E7%A7%8D%E7%94%A8%E6%B3%95/</loc>
     <lastmod>2018-04-06T11:00:30.206Z</lastmod>
-    <data>
-        <display>
-        <title>【转】PHP header 的几种用法</title>
-        <pubTime>2017-11-25T09:09:19.000Z</pubTime>
-        
-        <tag>PHP</tag>
-         
-        <tag>header</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/03/12/%E3%80%90%E8%BD%AC%E3%80%91LNMPP%E8%87%B4%E5%8A%9B%E4%BA%8E%E6%89%93%E9%80%A0%E6%9B%B4%E5%A5%BD%E7%9A%84Linux-Web%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2018-04-06T11:00:14.225Z</lastmod>
-    <data>
-        <display>
-        <title>【转】LNMPP致力于打造更好的Linux-Web环境</title>
-        <pubTime>2017-03-12T12:41:36.000Z</pubTime>
-        
-        <tag>LNMPP</tag>
-         
-        <tag>Linux</tag>
-         
-         
-           
-             
-              <breadCrumb title="编程技术" url="https://hexo.xxrar.com/categories/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2017/10/05/%E3%80%90%E6%91%98%E5%BD%95%E3%80%91%E5%9B%A0%E6%9E%9C%E7%9F%A5%E9%81%93%E2%80%94%E2%80%94%E6%89%8E%E8%A5%BF%E6%8B%89%E5%A7%86%C2%B7%E5%A4%9A%E5%A4%9A/</loc>
     <lastmod>2018-04-06T10:59:41.625Z</lastmod>
-    <data>
-        <display>
-        <title>【摘录】因果知道——扎西拉姆·多多</title>
-        <pubTime>2017-10-05T15:19:17.000Z</pubTime>
-        
-        <tag>因果知道</tag>
-         
-        <tag>扎西拉姆·多多</tag>
-         
-         
-           
-             
-              <breadCrumb title="美文欣赏" url="https://hexo.xxrar.com/categories/%E7%BE%8E%E6%96%87%E6%AC%A3%E8%B5%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+  </url>  <url>
     <loc>https://hexo.xxrar.com/2018/03/25/%E3%80%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E3%80%91%E8%AF%B7%E7%BB%99%E5%87%BA%E4%B8%80%E5%8F%A5%E5%BE%88%E6%9C%89%E5%86%85%E6%B6%B5%E7%9A%84%E8%AF%97%E5%8F%A5/</loc>
     <lastmod>2018-04-06T10:57:52.899Z</lastmod>
-    <data>
-        <display>
-        <title>【朋友圈】请给出一句很有内涵的诗句</title>
-        <pubTime>2018-03-25T05:54:54.000Z</pubTime>
-        
-        <tag>摘抄</tag>
-         
-         
-           
-             
-              <breadCrumb title="摘抄" url="https://hexo.xxrar.com/categories/%E6%91%98%E6%8A%84/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
+  </url>
 </urlset>
