@@ -440,12 +440,24 @@
                 
               
 
-              <time title="创建时间：2018-05-06 13:10:46 / 修改时间：13:40:16" itemprop="dateCreated datePublished" datetime="2018-05-06T13:10:46+08:00">2018-05-06</time>
+              <time title="创建时间：2018-05-06 13:10:46" itemprop="dateCreated datePublished" datetime="2018-05-06T13:10:46+08:00">2018-05-06</time>
             
 
             
               
 
+              
+                
+                <span class="post-meta-divider">|</span>
+                
+
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">更新于</span>
+                
+                <time title="修改时间：2019-01-14 19:26:36" itemprop="dateModified" datetime="2019-01-14T19:26:36+08:00">2019-01-14</time>
               
             
           </span>
@@ -472,11 +484,14 @@
 
           
             
+            
+              
               <span class="post-comments-count">
                 <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
+            
                 <a href="/2018/05/06/Emlog5-3-1在PHP7环境下的兼容处理.html#comments" itemprop="discussionUrl">
                   <span class="post-meta-item-text">评论数：</span> <span class="post-comments-count valine-comment-count" data-xid="/2018/05/06/Emlog5-3-1在PHP7环境下的兼容处理.html" itemprop="commentCount"></span>
                 </a>
@@ -509,10 +524,10 @@
         
           <h2 id="Emlog5-3-1在PHP7环境下的兼容处理"><a href="#Emlog5-3-1在PHP7环境下的兼容处理" class="headerlink" title="Emlog5.3.1在PHP7环境下的兼容处理"></a>Emlog5.3.1在PHP7环境下的兼容处理</h2><ol>
 <li><p>首先在/include/lib/option.php 大约11行位置</p>
-<figure class="highlight actionscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//默认MySQL链接方式，mysql或mysqli </span></span><br><span class="line">把 </span><br><span class="line"><span class="keyword">const</span> DEFAULT_MYSQLCONN = <span class="string">'mysql'</span>;</span><br><span class="line">改为 </span><br><span class="line"><span class="keyword">const</span> DEFAULT_MYSQLCONN = <span class="string">'mysqli'</span>;</span><br></pre></td></tr></table></figure>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//默认MySQL链接方式，mysql或mysqli </span></span><br><span class="line">把 </span><br><span class="line"><span class="keyword">const</span> DEFAULT_MYSQLCONN = <span class="string">'mysql'</span>;</span><br><span class="line">改为 </span><br><span class="line"><span class="keyword">const</span> DEFAULT_MYSQLCONN = <span class="string">'mysqli'</span>;</span><br></pre></td></tr></table></figure>
 </li>
 <li><p>在/include/lib/cache.php 大约195行 </p>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">把 </span><br><span class="line"><span class="meta">$</span><span class="bash"><span class="variable">$row</span>[<span class="string">'option_name'</span>] = <span class="variable">$row</span>[<span class="string">'option_value'</span>]; </span></span><br><span class="line">改为 </span><br><span class="line"><span class="meta">$</span><span class="bash">&#123;<span class="variable">$row</span>[<span class="string">'option_name'</span>]&#125; = <span class="variable">$row</span>[<span class="string">'option_value'</span>];</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">把 </span><br><span class="line">$$row[<span class="string">'option_name'</span>] = $row[<span class="string">'option_value'</span>]; </span><br><span class="line">改为 </span><br><span class="line">$&#123;$row[<span class="string">'option_name'</span>]&#125; = $row[<span class="string">'option_value'</span>];</span><br></pre></td></tr></table></figure>
 </li>
 </ol>
           <!--noindex-->
@@ -667,11 +682,14 @@
 
           
             
+            
+              
               <span class="post-comments-count">
                 <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
+            
                 <a href="/2018/03/25/【朋友圈】请给出一句很有内涵的诗句.html#comments" itemprop="discussionUrl">
                   <span class="post-meta-item-text">评论数：</span> <span class="post-comments-count valine-comment-count" data-xid="/2018/03/25/【朋友圈】请给出一句很有内涵的诗句.html" itemprop="commentCount"></span>
                 </a>
@@ -866,11 +884,14 @@
 
           
             
+            
+              
               <span class="post-comments-count">
                 <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
+            
                 <a href="/2018/03/16/使用Yandex翻译API解决火狐全文翻译.html#comments" itemprop="discussionUrl">
                   <span class="post-meta-item-text">评论数：</span> <span class="post-comments-count valine-comment-count" data-xid="/2018/03/16/使用Yandex翻译API解决火狐全文翻译.html" itemprop="commentCount"></span>
                 </a>
@@ -1057,11 +1078,14 @@
 
           
             
+            
+              
               <span class="post-comments-count">
                 <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
+            
                 <a href="/2018/02/25/hexo引用本地图片的解决方法.html#comments" itemprop="discussionUrl">
                   <span class="post-meta-item-text">评论数：</span> <span class="post-comments-count valine-comment-count" data-xid="/2018/02/25/hexo引用本地图片的解决方法.html" itemprop="commentCount"></span>
                 </a>
@@ -1249,11 +1273,14 @@
 
           
             
+            
+              
               <span class="post-comments-count">
                 <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
+            
                 <a href="/2018/02/24/邮件模板.html#comments" itemprop="discussionUrl">
                   <span class="post-meta-item-text">评论数：</span> <span class="post-comments-count valine-comment-count" data-xid="/2018/02/24/邮件模板.html" itemprop="commentCount"></span>
                 </a>
@@ -1438,11 +1465,14 @@
 
           
             
+            
+              
               <span class="post-comments-count">
                 <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-comment-o"></i>
                 </span>
+            
                 <a href="/2018/02/20/hello-world.html#comments" itemprop="discussionUrl">
                   <span class="post-meta-item-text">评论数：</span> <span class="post-comments-count valine-comment-count" data-xid="/2018/02/20/hello-world.html" itemprop="commentCount"></span>
                 </a>
@@ -1918,9 +1948,6 @@
 
 
   
-
-
-
   
 
 <script src="//cdn1.lncld.net/static/js/3.11.1/av-min.js"></script>
@@ -1934,7 +1961,7 @@
 <script>
   var GUEST = ['nick', 'mail', 'link'];
   var guest = 'nick,mail,link';
-  guest = guest.split(',').filter(function (item) {
+  guest = guest.split(',').filter(function(item) {
     return GUEST.indexOf(item) > -1;
   });
   new Valine({
@@ -1950,6 +1977,8 @@
     visitor: false
   });
 </script>
+
+
 
 
 
@@ -2041,11 +2070,11 @@
     }
   </style>
   <script>
-    $('.highlight').each(function (i, e) {
+    $('.highlight').each(function(i, e) {
       var $wrap = $('<div>').addClass('highlight-wrap');
       $(e).after($wrap);
-      $wrap.append($('<button>').addClass('copy-btn').append('复制').on('click', function (e) {
-        var code = $(this).parent().find('.code').find('.line').map(function (i, e) {
+      $wrap.append($('<button>').addClass('copy-btn').append('复制').on('click', function(e) {
+        var code = $(this).parent().find('.code').find('.line').map(function(i, e) {
           return $(e).text();
         }).toArray().join('\n');
         var ta = document.createElement('textarea');
@@ -2071,9 +2100,9 @@
         
         ta.blur(); //For iOS
         $(this).blur();
-      })).on('mouseleave', function (e) {
+      })).on('mouseleave', function(e) {
         var $b = $(this).find('.copy-btn');
-        setTimeout(function () {
+        setTimeout(function() {
           $b.text('复制');
         }, 300);
       }).append(e);

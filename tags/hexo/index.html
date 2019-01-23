@@ -114,7 +114,7 @@
 <meta name="keywords" content="唯美陌阡,Hexo,NexT,编程技术,美文欣赏,网络资源">
 <meta property="og:type" content="website">
 <meta property="og:title" content="唯美陌阡博客">
-<meta property="og:url" content="https://hexo.xxrar.com/tags/hexo/index.html">
+<meta property="og:url" content="https://hexo.xxrar.com/tags/Hexo/index.html">
 <meta property="og:site_name" content="唯美陌阡博客">
 <meta property="og:description" content="不忘初心，方得始终，建立于2017年1月16日,欢迎伙伴们来访(〃&apos;▽&apos;〃)">
 <meta property="og:locale" content="zh-Hans">
@@ -129,7 +129,7 @@
 
 
 
-  <link rel="canonical" href="https://hexo.xxrar.com/tags/hexo/">
+  <link rel="canonical" href="https://hexo.xxrar.com/tags/Hexo/">
 
 
 
@@ -139,7 +139,7 @@
   };
 </script>
 
-  <title>标签: hexo | 唯美陌阡博客</title>
+  <title>标签: Hexo | 唯美陌阡博客</title>
   
 
 
@@ -410,7 +410,7 @@
 
     <div id="posts" class="posts-collapse">
       <div class="collection-title">
-        <h2>hexo<small>标签</small>
+        <h2>Hexo<small>标签</small>
         </h2>
       </div>
 
@@ -422,17 +422,17 @@
 
       <h3 class="post-title">
         
-          <a class="post-title-link" href="/2018/02/25/hexo引用本地图片的解决方法.html" itemprop="url">
+          <a class="post-title-link" href="/2018/02/20/hello-world.html" itemprop="url">
             
-              <span itemprop="name">hexo引用本地图片的解决方法</span>
+              <span itemprop="name">Hello World</span>
             
           </a>
         
       </h3>
 
       <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2018-02-25T00:38:43+08:00" content="2018-02-25">
-          02-25
+        <time class="post-time" itemprop="dateCreated" datetime="2018-02-20T21:56:54+08:00" content="2018-02-20">
+          02-20
         </time>
       </div>
 
@@ -836,9 +836,6 @@
 
 
   
-
-
-
   
 
 <script src="//cdn1.lncld.net/static/js/3.11.1/av-min.js"></script>
@@ -852,7 +849,7 @@
 <script>
   var GUEST = ['nick', 'mail', 'link'];
   var guest = 'nick,mail,link';
-  guest = guest.split(',').filter(function (item) {
+  guest = guest.split(',').filter(function(item) {
     return GUEST.indexOf(item) > -1;
   });
   new Valine({
@@ -868,6 +865,8 @@
     visitor: false
   });
 </script>
+
+
 
 
 
@@ -945,11 +944,11 @@
     }
   </style>
   <script>
-    $('.highlight').each(function (i, e) {
+    $('.highlight').each(function(i, e) {
       var $wrap = $('<div>').addClass('highlight-wrap');
       $(e).after($wrap);
-      $wrap.append($('<button>').addClass('copy-btn').append('复制').on('click', function (e) {
-        var code = $(this).parent().find('.code').find('.line').map(function (i, e) {
+      $wrap.append($('<button>').addClass('copy-btn').append('复制').on('click', function(e) {
+        var code = $(this).parent().find('.code').find('.line').map(function(i, e) {
           return $(e).text();
         }).toArray().join('\n');
         var ta = document.createElement('textarea');
@@ -975,12 +974,21 @@
         
         ta.blur(); //For iOS
         $(this).blur();
-      })).on('mouseleave', function (e) {
+      })).on('mouseleave', function(e) {
         var $b = $(this).find('.copy-btn');
-        setTimeout(function () {
+        setTimeout(function() {
           $b.text('复制');
         }, 300);
       }).append(e);
+    })
+  </script>
+
+
+  
+
+</body>
+</html>
+append(e);
     })
   </script>
 
